@@ -1,9 +1,7 @@
-// import Header from "./Header/index"
-import Home from "../Pages/Home/index"
+import Routes from "./Router"
 
 export default function Layout(){
     return <>
-        {/* <Header/> */}
-        <Home/>
+        <Routes/>
     </>
 } 
