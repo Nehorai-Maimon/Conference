@@ -3,21 +3,22 @@ import "./style.css";
 import { useNavigate } from "react-router";
 
 export default function Header() {
-  const [logged, setLogged] = useState(false);
+  const [logged, setLogged] = useState();
 
   const navigate = useNavigate();
   function bbb() {
-    navigate("/Search");
     setLogged(true);
+    navigate("/Search");
   }
 
-  return<>
-   {(logged) ? <div>welcome</div> :<form>
+  return<div className="header">
+    <div className="textHeder">smart delivery </div>
+   {(logged) ? <div> welcome userName</div> :<form>
           <input name="email" type="email" placeholder="Email"/>
-          <input name="password" type="password" placeholder="Password"/>
+          <input name="password" type="password" placeholder="Password" autoComplete="current"/>
           <button onClick={bbb}>login</button>
         </form> 
     } 
-    </>
+    </div>
 };
 
