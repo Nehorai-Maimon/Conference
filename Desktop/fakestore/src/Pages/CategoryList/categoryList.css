@@ -1,0 +1,10 @@
+.categories{
+    display: flex;
+    padding-left: 50px;
+}
+.category{
+padding-right: 30px;
+}
+#head-category{
+    text-align: center;
+}
