@@ -1,9 +1,0 @@
-.comp{
-    background-color: darkgray;
-    border-radius: 11px;
-    padding: 7px;
-    margin-top: 14px;
-}.compContainer{
-    display: flex;
-    justify-content: space-evenly;
-}
