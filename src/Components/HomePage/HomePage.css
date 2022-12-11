@@ -1,0 +1,49 @@
+.home-page-container {
+    height: 100vh;
+    width: 100vw;
+}
+
+.contain-private-area{
+    min-width: 5rem;
+    /* background-color: blueviolet; */
+    display: flex;
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
+
+.private-area-header{
+    height: 0.906rem;
+    width: 0.906rem;
+    border-radius: 50%;
+    margin-right: 0.5rem !important;
+    margin: auto;
+}
+
+.fun-title{
+    margin-top: 5.32375rem;
+    position: absolute;
+    width: 335px;
+    height: 80px;
+    left: 22.99px;
+    top: calc(13% - 80px/2 + 29.68px);
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 99.38%;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #082543;
+}
+
+.log-out-button{
+    width: 4.5rem;
+    position: absolute;
+    top: 2.5rem;
+    left: 1rem;
+    color: #848484;
+    border-radius: 5px;
+    border-color: #848484;
+    background-color: transparent;
+}

@@ -1,0 +1,99 @@
+/* .div-form-register-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+} */
+
+.bt-register-div-content-title{
+  margin-top: 20%;
+}
+
+#button-sub-register-form {
+  border: none;
+  width: 80%;
+  text-align: center;
+  padding-bottom: 3%;
+  direction: rtl;
+  height: 8%;
+  background-color: #44BAAB14;
+  color: #189E8D;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+  margin: 10% 5% 0 5%;
+}
+
+.happy-to-meet-you{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  align-items: center;
+  text-align: center;
+}
+
+.choose-strong-password{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    align-items: center;
+    text-align: center;
+}
+
+/* .bt-register-first-div-form {
+  color: rgb(0 0 0);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bt-register-div-content-input {
+  width: 70%;
+  margin-top: 10%;
+}
+.bt-register--content-input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid rgb(28 28 28);
+  color: rgb(64 64 64);
+  box-sizing: border-box;
+  margin-top: 5%;
+  border: none;
+  text-align: right;
+  outline: none;
+  margin-top: 5%;
+  font-size: large;
+  padding-bottom: 3%;
+}
+
+.bt-register--content-input:required:invalid {
+  background-color: rgb(253, 208, 208);
+}
+
+.bt-register--content-input:e {
+  border-color: gray;
+}
+.bt-register--content-input:required:valid {
+  border-color: green;
+}
+.bt-register--content-input:invalid {
+  border-color: red;
+}
+
+.bt-register-div-content-button {
+  background-color: rgb(192 192 192);
+  border: none;
+  width: 60%;
+  margin-top: 10%;
+  text-align: center;
+  padding-bottom: 5%;
+  font-size: large;
+  font-family: "Carter One", cursive;
+  font-family: "Heebo", sans-serif;
+  font-family: "Patrick Hand", cursive;
+}
+
+.bt-register-div-content-button:hover {
+  cursor: pointer;
+} */

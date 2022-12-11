@@ -1,0 +1,33 @@
+
+.include-share-meeting{
+    height: 102vh;
+    width: 100vw;
+    background-color: rgba(8, 37, 67, 0.6);
+    position: fixed;
+    z-index: 1;
+    margin-top: -2rem;
+}
+
+.container-share-meeting{
+    height: 10%;
+    width: 80%;
+    margin: auto;
+    top: 20rem;
+    left: 1.5rem;
+    padding: 1rem;
+    position: absolute;
+    background-color: #ffffff;
+}
+
+.close-share-meeting{
+    background-color: transparent;
+    border: none;
+    position: absolute;
+    right: 0.9375rem;
+    font-size: large;
+    font-weight: 700;
+}
+
+.contains-icons{
+    margin-top: 1rem;
+}

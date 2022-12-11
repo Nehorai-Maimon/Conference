@@ -1,0 +1,23 @@
+.bt-register-input-css {
+     width: 20.063rem;
+     height: 3.063rem;
+     background-color: transparent;
+     border: 1px solid rgb(28 28 28);
+  /* border-bottom: 1px solid rgb(28 28 28); */
+     color: rgb(64 64 64);
+  /* box-sizing: border-box; */
+     margin-top: 5%;
+     text-align: right;
+     outline: none;
+     font-size: 20px;
+     padding-right: 1rem;
+}
+
+.active {
+  border-color: #082543;
+}
+
+.error-dev-formik {
+  color: red;
+  font-size: x-small;
+}

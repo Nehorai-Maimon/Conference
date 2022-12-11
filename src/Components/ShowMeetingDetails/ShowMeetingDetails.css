@@ -1,0 +1,31 @@
+ 
+ @import url('https://fonts.googleapis.com/css2?family=Heebo&family=Montserrat:wght@900&family=Suez+One&family=Ubuntu&display=swap');
+ 
+ .container-show-meeting-details{
+   background-color: #fff;
+   width: 101vw;
+   height: 100vh;
+   /* margin-top: -48.5vh; */
+   padding-top: 0.375rem;
+   position: fixed;
+   z-index: 1;
+}
+
+.cancel-meeting{
+    font-family: "Heebo";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: var(--primary-dark-color);
+    position: absolute;
+    width: 73px;
+    height: 21px;
+    left: calc(50% - 73px/2 + 0.5px);
+    bottom: 11.063rem;
+}
+
+.cancel-meeting:hover {
+    text-decoration: underline;
+}

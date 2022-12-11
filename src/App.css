@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+:root {
+  --primary-color: rgba(68, 186, 171, 0.08);;
+  --primary-dark-color:  #189E8D;
+}
+
+.main-title{
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 26px;
+  align-items: center;
+  text-align: center;
+}
+
+.secondary-title{
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  align-items: center;
+  text-align: center;
+}
+
+.subtitle{
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+  align-items: center;
+  text-align: center;
+}
+
+body{
+  font-family: 'Heebo';
+}

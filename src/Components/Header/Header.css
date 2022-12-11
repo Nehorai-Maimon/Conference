@@ -1,0 +1,34 @@
+.container-header-details {
+  height: 11.938rem;
+  width: 100vw;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-items: flex-end;
+}
+
+.logo-background-header{
+  height: 100%;
+  width: 100vw;
+  display: flex;
+  z-index: 0;
+}
+
+.fun-title {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 99.38%;
+  max-width: 89%;
+  position: absolute;
+  right: 0;
+  margin: 0;
+  padding-right: 0em;
+  margin-top: 5rem;
+  margin-left: -1rem;
+}
+

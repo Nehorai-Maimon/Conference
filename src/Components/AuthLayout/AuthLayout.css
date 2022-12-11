@@ -1,0 +1,30 @@
+.bt-login-div-content-select {
+  /* border: 1px solid rgb(235, 136, 23); */
+  display: flex;
+  justify-content: space-around;
+}
+
+.bt-login-div-content-select-1 {
+  font-family: "Carter One", cursive;
+  font-family: "Heebo", sans-serif;
+  font-family: "Patrick Hand", cursive;
+  font-size: large;
+}
+
+.bt-login-div-content-select-2 {
+  font-family: "Carter One", cursive;
+  font-family: "Heebo", sans-serif;
+  font-family: "Patrick Hand", cursive;
+  font-size: large;
+}
+
+.link-select-login2 {
+  outline: none;
+  color: rgb(0 0 0);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.link-select-login2:visited {
+  text-decoration: underline;
+}

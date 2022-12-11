@@ -1,0 +1,66 @@
+.container{
+    width: 100vw;
+    height: 40%;
+    background-color: white;
+    margin-top:1rem;
+}
+
+
+.minusButton, .plusButton{
+   background-color: black;
+   color: white;
+}
+
+.dateButton:hover{
+    /* box-shadow: 5px 10px 18px #888888; */
+    border-radius: 5px;
+    width:fit-content;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.hourButton:hover{
+    /* box-shadow: 5px 10px 18px #888888; */
+    border-radius: 5px;
+    width:fit-content;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.numberOfParticipant{
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.timeQuestion, .countOfPeopleQuestion, .addParticipantsContainer{
+        text-align: center;
+}
+
+.timeQuestion {
+    margin-top: 12.563rem;
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.813rem;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+}
+
+.countOfPeopleQuestion{
+    margin-top: 2em;
+}
+
+.selectTimeBox{
+    text-align: center;
+    width: 50%;
+    height: 3rem;
+    font-size: large;
+    color:rgba(130, 130, 130, 0.8);
+    border: 1px solid #082543;
+}
+
+.option {
+    text-align: center;
+    color: blueviolet;
+
+}

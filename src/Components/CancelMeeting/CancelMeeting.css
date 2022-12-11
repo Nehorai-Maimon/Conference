@@ -1,0 +1,22 @@
+
+.container-cancel-meeting{
+    position: absolute;
+    width: 20.688rem;
+    height: 17.813rem;
+    left: 22px;
+    top: 16.438rem;
+    padding-top: 10%;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 4px rgba(8, 37, 67, 0.25);
+    border-radius: 8px;
+    z-index: 2;
+}
+
+.cancel-icon{
+   width: 4rem;
+   height: 4rem;
+}
+
+.are-you-shure{
+    margin-bottom: 17%;
+}

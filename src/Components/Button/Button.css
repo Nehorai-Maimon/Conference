@@ -1,0 +1,55 @@
+
+.contains-buttons{
+    /* margin-top: 24vh; */
+    display: flex;
+    flex-direction: column;
+}
+
+.pop-up-buttons{
+    position: relative;
+    /* bottom: -1rem; */
+}
+
+.buttons-of-the-page{
+    position: relative;
+    top: 37rem;
+}
+
+.button{
+    background: var(--primary-color);
+    width: 20.625rem;
+    height: 3rem;
+    color: var(--primary-dark-color);
+    margin: auto;
+    border: none;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    margin-top: 1rem;
+}
+
+.button2{
+    color: var(--primary-dark-color);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    align-items: center;
+    width: 20.625rem;
+    margin: auto;
+    border: none;
+    background-color: #ffff;
+}
+
+.button-before-valid {
+    background-color: rgba(172, 180, 179, 0.08) !important;
+    color: rgba(155, 155, 155, 1) !important; 
+}
+
+.details-alternate-meeting-css{
+    margin-top: 25rem;
+}
+
+.button-sub-register-form{
+   font-weight: 700;
+}

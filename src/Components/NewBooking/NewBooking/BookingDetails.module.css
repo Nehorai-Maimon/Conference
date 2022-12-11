@@ -1,0 +1,27 @@
+.detailsOfNewBooking {
+    position:absolute;
+    margin-top: 7rem;
+    padding:0;
+    background-color: #4FD4BD14;
+    height: 6.563rem;
+    width: 100%;
+    height: 6.563rem;
+    display: flex;
+    font-weight: 700;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.styleText{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.pickDate{
+    position: absolute;
+    top: 0.8125rem;
+}

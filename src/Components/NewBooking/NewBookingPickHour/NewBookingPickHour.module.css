@@ -1,0 +1,74 @@
+.time {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-style: normal;
+    margin-top: 5rem;
+}
+
+.head_line {
+    margin-top: 8rem;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+}
+
+.date {
+
+    font-weight: 700;
+    font-size: 0.875rem;
+    line-height: 1.313rem;
+}
+
+.question {
+    direction: rtl;
+    margin-bottom: 1rem;
+}
+
+.time_picker {
+    display: flex;
+    flex-direction: column;
+
+    /* position: absolute; */
+    width: 15.5rem;
+    height: 18rem;
+    left: calc(50% - 15.5rem/2);
+    padding: 0px;
+    bottom: 8rem;
+
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+.time_button {
+    display: block;
+    width: 100%;
+    height: 3.125rem;
+    margin-bottom: 0.625rem;
+    padding: 0.5rem;
+    align-items: center;
+    text-align: center;
+    border: 0.031rem solid #082543;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    background-color: transparent;
+}
+
+.time_button:active {
+    color: rgb(0, 0, 0);
+    background-color: rgb(140, 254, 235);
+}
+
+.time_button:hover {
+    color: rgb(254, 254, 254);
+    background-color: rgba(79, 212, 189, 0.35);
+}

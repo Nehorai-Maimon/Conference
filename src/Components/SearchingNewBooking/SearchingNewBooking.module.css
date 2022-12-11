@@ -1,0 +1,22 @@
+.SearchingNewBookingContainer{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.searchingHeadline{
+margin-top: 14.438rem;
+font-family: 'Heebo';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+color:#44BAAB;
+}
+.binocular{
+    margin-top: 11.313rem;
+width: 6.313rem;
+height: 6.438rem;
+}

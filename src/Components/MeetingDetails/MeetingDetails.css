@@ -1,0 +1,84 @@
+
+.meeting_details_container{
+    height: 22.5rem;
+    width: 18.3125rem;
+    border: 0.5px solid #C4C4C4;
+    margin: auto;
+    position: absolute;
+    top: 10.25rem;
+    left: 3rem;
+    /* margin-top: 12.375rem; */
+
+    /* height: 22.5rem;
+    width: 18.313rem;
+    border: 0.5px solid #C4C4C4;
+    margin: auto;
+    margin-top: 0.625rem;
+    z-index: 1; */
+}
+
+.img_and_details{
+    height: 12.3rem;
+    width: 18.3125rem;
+    border: 2px, solid, black;
+    margin: auto;
+    margin-top: 1.875rem;
+    margin-bottom: 2rem;
+}
+
+.room_img{
+    height: 12.313rem;
+    width: 18.3125rem ;
+}
+
+.room_details{
+    direction: rtl;
+    display: flex;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    margin-top: 1.326rem;
+    margin-bottom: -4%;
+    padding: 5px 10px;
+}
+
+.room_name{
+    display: flex; 
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: "Heebo";
+    font-weight: 400;
+    line-height: 20.77px;
+}
+
+.room_max_people{
+    display: flex;   
+    font-size: 10px;
+    line-height: 14.69px;
+    margin-top: 2%;
+}
+
+.text_meeting_1{
+    width: 124px;
+    height: 24px;
+    margin: auto;
+    }
+
+.date-of-meet{
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 21px;
+}
+
+.text_meeting_2{
+    font-size: 14px;
+}
+
+.bottom-line{
+    border-bottom: 2px solid #ece6e6;
+    width: 44%;
+    margin: auto;
+    margin-top: 0.5rem;
+}

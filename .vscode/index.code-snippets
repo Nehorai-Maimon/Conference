@@ -1,0 +1,11 @@
+{
+  "Generate index.js file": {
+    "scope": "javascript",
+    "prefix": "idx",
+    "body": [
+      "import ${1:${TM_DIRECTORY/^.+\\/(.*)$/$1/}} from './$1';",
+      "export default $1;"
+    ],
+    "description": "Generate index.js file"
+  }
+}

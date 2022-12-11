@@ -1,0 +1,25 @@
+
+
+.contain-back-arrow{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 90vw;
+    justify-content: center;
+    margin: auto;
+    margin-top: 1rem !important;
+}
+
+.back-arrow-text{
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.backArrow-button{
+    width: 0.4375rem;
+    height: 0.875rem;
+    right: 0;
+    position: absolute;
+}
+

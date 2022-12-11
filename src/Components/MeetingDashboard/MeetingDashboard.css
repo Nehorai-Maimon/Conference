@@ -1,0 +1,27 @@
+.meeting-dashboard {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    line-height: 3;
+    margin-top: -14%;
+}
+
+.border {
+    border-bottom: 1px solid;
+    font-weight: bold;
+}
+
+.primary-button {
+    display: flex;
+    background-color: #44BAAB14;
+    height: 6%;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    margin: 5%;
+    margin-bottom: 0;
+}
+
+.newMeeting{
+    color: var(--primary-dark-color);
+}

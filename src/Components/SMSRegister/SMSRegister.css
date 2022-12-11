@@ -1,0 +1,55 @@
+
+.div-form-register-container{
+    margin-top: 5rem;
+}
+
+.title-register-phone{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.register-send-code{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.button-before-valid {
+    background-color: rgba(172, 180, 179, 0.08) !important;
+    color: rgba(155, 155, 155, 1) !important; 
+}
+
+.buuton-login-block {
+    width: 100%
+}
+
+.timerOfCode{
+    margin: auto;
+}
+
+.sendAgainCode{
+    padding: 0 20%;
+}
+
+.landing-page{
+    margin-top: 6rem;
+}
+
+/* .register-details-title{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    align-items: center;
+    text-align: center;
+} */

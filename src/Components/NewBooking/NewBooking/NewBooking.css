@@ -1,0 +1,53 @@
+.craeteNewBooking{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titleOfNewMeeting {
+    margin-top: 0.938rem ;
+    color:black;
+}
+
+
+
+.footerButtons{
+    display:flex;
+    flex-direction: column;
+    position:absolute;
+    width: 20.625rem;
+    bottom: 2rem;
+    height: fit-content;
+}
+
+.cancelButton, .continueButton {
+    width: 100%;
+    border:none;
+    text-align: center;
+    padding: 1em 3em 1em 3em;
+}
+
+.cancelButton{
+    background-color: transparent;
+    color:#44BAAB;
+    text-align: center;
+}
+
+.continueButton{
+    background-color: rgba(68, 186, 171, 0.08);
+    direction: rtl;
+    color: var(--primary-dark-color);
+}
+
+.cancelButton:hover{
+    cursor: pointer;
+    background-color: transparent;
+    color: rgb(123, 123, 123);
+}
+.continueButton{
+    cursor: pointer;
+}
+

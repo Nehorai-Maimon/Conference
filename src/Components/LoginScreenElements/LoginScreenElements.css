@@ -1,0 +1,37 @@
+.login-screens-general {
+    height: 100vh;
+    width: 100vw;
+}
+
+.login-screens-header {
+    width: 100vw;
+    height: 10%;
+    margin-top: 2rem;
+}
+
+.login-screens-action {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 74%;
+}
+
+.form-login-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    padding: 10px, 12px, 10px, 12px;
+}
+
+.form-login-screen input {
+    margin: 3%;
+    height: 3.063rem;
+    width: 20.063rem;
+    border: 1px solid;
+    padding-right: 1rem;
+    font-size: 20px;
+}

@@ -1,0 +1,82 @@
+
+.container-details-of-meeting{
+    height: 100vh;
+    width: 100vw;
+}
+
+.bool{
+    width: 4rem;
+    height: 3.25rem;
+    margin-top: 4.8125rem;
+}
+
+.we-found{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    align-items: center;
+    text-align: center;
+}
+
+.schedule-a-meeting{
+    margin-top: 9rem;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    align-items: center;
+    text-align: center;
+}
+
+.save-for-you{
+    margin-top: 6rem;
+    position: relative;
+    top: 26rem;
+}
+
+.container-all-benefits{
+    display: flex;
+    direction: rtl;
+    /* background-color: brown; */
+    padding: 20px;
+    margin-bottom: 2rem;
+}
+
+.display{
+    width: 40vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.style-benefits{
+    /* background-color: aqua; */
+    margin-right: 3rem;
+}
+
+.contains-benefits{
+  display: flex;
+  direction: rtl;
+  /* width: 50%; */
+}
+
+.benefits{
+   height: 1.5625rem;
+   width: 1.5625rem;
+   margin-left: 1rem;
+}
+
+.wifi{
+    height: 1.203125rem;
+}
+
+.description-benefit{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    align-items: flex-end;
+    text-align: right;
+    margin-top: 0.5rem;
+}

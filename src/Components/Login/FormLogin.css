@@ -1,0 +1,50 @@
+
+.container-form-login{
+  margin-top: 4rem;
+}
+
+.bt-login-input-content-input {
+  width: 20.063rem;
+  height: 3.063rem;
+  background-color: transparent;
+  border: 1px solid #082543;
+  padding: 10px 12px;
+  color: rgb(64 64 64);
+  box-sizing: border-box;
+  text-align: right;
+  outline: none;
+  margin-left: -1rem;
+  font-size: 20px;
+}
+
+.bt-login-btn-login-sms {
+  background-color: rgb(192 192 192);
+  border: none;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 8%;
+  padding-bottom: 6%;
+  font-size: large;
+  font-family: "Carter One", cursive;
+  font-family: "Heebo", sans-serif;
+  font-family: "Patrick Hand", cursive;
+}
+
+.bt-login-btn-login-google {
+  background-color: rgb(192 192 192);
+  border: none;
+  width: 100%;
+  margin-top: 10%;
+  text-align: center;
+  padding-bottom: 8%;
+  font-size: large;
+  font-family: "Carter One", cursive;
+  font-family: "Heebo", sans-serif;
+  font-family: "Patrick Hand", cursive;
+}
+
+.under-line-div{
+  width: 15.5rem;
+  border-bottom: 1px solid rgba(130, 130, 130, 0.8);
+  margin: 2rem auto;
+}
